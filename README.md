@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Muthanna</h1>
 <h3 align="center">A passionate Software Engineer from Yemen, based in Turkey 🇹🇷</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=602AF7&width=435&lines=Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=203DF7&width=435&lines=Freelancer)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahm-dev&theme=github_dark)
 
