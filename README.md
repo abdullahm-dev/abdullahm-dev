@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahm-dev&show_icons=true&locale=en" alt="abdullahm-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahm-dev&" alt="abdullahm-dev" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahm.dev&theme=dark)](https://git.io/streak-stats)
