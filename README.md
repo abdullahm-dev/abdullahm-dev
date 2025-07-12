@@ -5,13 +5,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahm-dev&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahm-dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahm-dev&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahm-dev&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahm-dev&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahm-dev&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahm-dev&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahm-dev&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahm-dev&theme=github_dark&utcOffset=8)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahm-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahm-dev" /> </p>
