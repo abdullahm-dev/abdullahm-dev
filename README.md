@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Muthanna</h1>
 <h3 align="center">A passionate Software Engineer from Yemen, based in Turkey 🇹🇷</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=602AF7&width=435&lines=Freelancer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahm-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahm-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahm-dev" alt="abdullahm-dev" /></a> </p>
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdullahm-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullahm-dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amuthanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amuthanna/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amuthanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amuthanna" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullahm.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahm.dev" height="30" width="40" /></a>
 </p>
 
